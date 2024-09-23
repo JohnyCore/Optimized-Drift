@@ -29,3 +29,9 @@ The **Drift Mod** allows you to experience a more realistic and exciting driftin
 ## Requirements
 - GTA: San Andreas (SA:MP)
 - [MoonLoader](https://blast.hk/threads/13305/)
+
+## Contributing 🤝
+Feel free to submit pull requests or issues if you'd like to improve the mod or report bugs. Contributions are always welcome! 🙌
+
+## Support 💬
+If you encounter any problems or have suggestions, feel free to open an issue or contact me via Discord at `DjC#3088`.
