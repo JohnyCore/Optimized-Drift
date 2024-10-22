@@ -9,7 +9,8 @@ local sCar
 local dToggle = false
 
 function main()
-    if not isSampLoaded() and not isSampAvailable() then return end
+    if not isSampfuncsLoaded() or not isSampLoaded() then return end
+	while not isSampAvailable() do wait(0) end
 
     sampAddChatMessage("{ff5b4f}[Drift v" .. script_version .. "] {FFFFFF}Loaded, Use (/drift) to activate/deactivate it.", -1)
 
