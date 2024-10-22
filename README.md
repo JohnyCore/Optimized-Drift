@@ -1,4 +1,4 @@
-# Drift Mod v0.0.1 ![MoonLoader](https://img.shields.io/badge/MoonLoader-compatible-green.svg)
+# Drift Mod v0.0.2 ![MoonLoader](https://img.shields.io/badge/MoonLoader-compatible-green.svg)
 
 ![image](https://github.com/user-attachments/assets/197fb796-8288-4095-97c4-25a54c1c0603) 
 
